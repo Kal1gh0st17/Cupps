@@ -46,14 +46,4 @@ You should have received a copy of the GNU General Public License along with thi
 
 See './LICENSE' for more information.
 
-Github import
-This project was imported into https://github.com/Mebus/cupp by Mebus from:
-http://www.remote-exploit.org/content/cupp-3.0.tar.gz
-http://www.remote-exploit.org/articles/misc_research__amp_code/index.html
-to encourage further development of the tool.
 
-Original author
-Muris Kurgas aka j0rgan
-j0rgan@remote-exploit.org
-http://www.remote-exploit.org
-http://www.azuzi.me
